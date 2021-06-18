@@ -15,7 +15,7 @@
     {
       "id": "hdmdu0t80yjkfqselfc",
       "name": "PlayStation Vita",
-      "stock": 10,
+      "stock": 9,
       "price": 159.99,
       "shortDesc": "PlayStation Vita PCH1001: HenKaku 3.60",
       "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
@@ -23,7 +23,7 @@
     {
       "id": "3dc7fiyzlfmkfqseqam",
       "name": "Raspberry Pi 3a",
-      "stock": 20,
+      "stock": 19,
       "price": 29.99,
       "shortDesc": "Rasp Pi 3a with case and Ubuntu Server",
       "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
@@ -39,7 +39,7 @@
     {
       "id": "bmfrurdkswtkfqsf15j",
       "name": "NES",
-      "stock": 5,
+      "stock": 4,
       "price": 99.99,
       "shortDesc": "Nintendo Entertainment System w/ Tetris + Metroid",
       "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
@@ -48,7 +48,7 @@
       "id": "x1sxht7pd08kq0ogkqu",
       "name": "Limited Pink PS2",
       "price": "250.00",
-      "stock": "2",
+      "stock": 1,
       "shortDesc": "Limited edition pink PS2 bundle import",
       "description": "Both come with all stock accessories in perfect condition"
     }
